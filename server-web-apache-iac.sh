@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
-
+#-----------------------------------------------------
+#  Arquivo:       linux-starup-config.bash
+#  Descricao:     2° Projeto de IAC para configuração  
+#                 de um servidor web 
+#  Autor:         Mateus Mota
+#-----------------------------------------------------
 echo "Instalando dependências..."
 sudo apt update
 sudo apt install apache2 unzip-y
