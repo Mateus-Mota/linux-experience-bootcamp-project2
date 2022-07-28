@@ -3,7 +3,7 @@
 
 ## Objetivo
 
-Criar um script que realiza o provisionamento de um servidor web, no caso será usado o apache Será realizado o upload do arquivo de script no GitHub para futuras reutilizações do script. 
+Criar um script que realiza o provisionamento de um servidor web, no caso será usado o apache e também realizar o upload do arquivo de script no GitHub para futuras reutilizações e melhoramentos no script. 
 
 Será realizado o upload do arquivo de script no GitHub para futuras reutilizações do script.
 
