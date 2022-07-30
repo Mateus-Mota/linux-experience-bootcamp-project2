@@ -1,4 +1,4 @@
-# linux-iac-bootcamp-project2
+# linux-experience-bootcamp-project3
 2° projeto do bootcamp Linux Experience.
 
 ## Objetivo
