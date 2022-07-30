@@ -1,5 +1,7 @@
 # linux-experience-bootcamp-project3
-2° projeto do bootcamp Linux Experience.
+2° projeto do bootcamp Linux Experience, focado em automatizar a configuração por código de um servidor apache para aplicação web. sendo essa prática conhecida como Iac(Infrastructure as Code)
+
+<br>
 
 ## Objetivo
 
@@ -7,6 +9,7 @@ Criar um script que realiza o provisionamento de um servidor web, no caso será 
 
 Será realizado o upload do arquivo de script no GitHub para futuras reutilizações do script.
 
+<br>
 
 ## Especicações
 
